@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "package-template",
+  "versions": [
+    {
+      "commit": "983c9114fb6ae1d4aab1b93356658b3669795cc6",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:59:24.867239+00:00"
+    }
+  ]
+}
